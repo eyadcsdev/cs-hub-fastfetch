@@ -1,4 +1,3 @@
-```bash
 #!/usr/bin/env bash
 
 set -e
@@ -180,4 +179,4 @@ echo
 echo -e "${CYAN}➡ Run:${RESET} ${BOLD}fastfetch${RESET}"
 echo -e "${CYAN}➡ Config:${RESET} ${BOLD}$CONFIG_DIR/config.jsonc${RESET}"
 echo
-```
+
