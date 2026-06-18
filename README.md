@@ -13,7 +13,7 @@ This project provides **8 themes**, each with **2 different layouts** (`sample_1
 
   * `sample_1` → Compact layout
   * `sample_2` → Extended layout
-* 👀 **Screenshot preview** for every theme and layout
+* 👀 **Screenshot preview** for every theme and layou
 * ⚙️ **Interactive installer**
 * 📁 Clean and portable configuration structure
 * 🖥️ Optimized for wide terminals
